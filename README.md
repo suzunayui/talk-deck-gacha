@@ -1,0 +1,2 @@
+# talk-deck-gacha
+トークデッキのガチャ
